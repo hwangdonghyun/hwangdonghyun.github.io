@@ -22,11 +22,11 @@ My research interests are following:
 - Human-Computer Interaction
   - Interactive System using Computer Vision
 
-![](http://hwangdonghyun.github.io/images/logos/tokyotechlogo.png | height=100)
-![](http://hwangdonghyun.github.io/images/logos/jspslogo.png | height=100)
-![](http://hwangdonghyun.github.io/images/logos/cmurilogo.png | height=100)
-![](http://hwangdonghyun.github.io/images/logos/kakenhilogo.jpeg | height=100)
-![](http://hwangdonghyun.github.io/images/logos/aiplogo.png | height=100)
+![](http://hwangdonghyun.github.io/images/logos/tokyotechlogo.png)
+![](http://hwangdonghyun.github.io/images/logos/jspslogo.png)
+![](http://hwangdonghyun.github.io/images/logos/cmurilogo.png)
+![](http://hwangdonghyun.github.io/images/logos/kakenhilogo.jpeg)
+![](http://hwangdonghyun.github.io/images/logos/aiplogo.png)
 
 
 
