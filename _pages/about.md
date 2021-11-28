@@ -26,7 +26,7 @@ My research interests are following:
 ![](http://hwangdonghyun.github.io/images/logos/jspslogo.png)
 ![](http://hwangdonghyun.github.io/images/logos/cmurilogo.png)
 ![](http://hwangdonghyun.github.io/images/logos/kakenlogo.jpeg){: height="100"}
-![](http://hwangdonghyun.github.io/images/logos/aiplogo.png){: height="100"}
+![](http://hwangdonghyun.github.io/images/logos/aiplogo.png =x200)
 
 
 
