@@ -18,7 +18,7 @@ My research interests are following:
 - Computer Vision and Machine Learning
   - Mobile Human Pose Estimation
 
-  ![MONOEYEGIF](http://hwangdonghyun.github.io/images/gifs/monoeye.gif)(https://hwangdonghyun.github.io/publication/2020-uist){: height="180"}
+  [![MONOEYEGIF](http://hwangdonghyun.github.io/images/gifs/monoeye.gif){: height="180"}](https://hwangdonghyun.github.io/publication/2020-uist)
   ![MOVNECTGIF](http://hwangdonghyun.github.io/images/gifs/movnect.gif)(https://hwangdonghyun.github.io/publication/2020-wacv){: height="180"}
   ![MONOEYE2GIF](http://hwangdonghyun.github.io/images/gifs/ahs.gif)(https://hwangdonghyun.github.io/publication/2021-ah){: height="180"}
   ![MOVNECT2GIF](http://hwangdonghyun.github.io/images/gifs/movnect2.gif)(https://hwangdonghyun.github.io/publication/2020-wacv){: height="180"}
