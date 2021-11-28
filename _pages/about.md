@@ -20,8 +20,14 @@ My research interests are following:
 
   ![](http://hwangdonghyun.github.io/images/gifs/monoeye.gif){: height="180"}
   ![](http://hwangdonghyun.github.io/images/gifs/movnect.gif){: height="180"}
+  ![](http://hwangdonghyun.github.io/images/gifs/ahs.gif){: height="180"}
+
 - Human-Computer Interaction
   - Interactive System using Computer Vision
+  
+  ![](http://hwangdonghyun.github.io/images/gifs/golf.gif){: height="180"}
+  ![](http://hwangdonghyun.github.io/images/gifs/mlio.gif){: height="180"}
+
 
 ![](http://hwangdonghyun.github.io/images/logos/tokyotechlogo.png){: height="100"}
 ![](http://hwangdonghyun.github.io/images/logos/jspslogo.png){: height="120"}
