@@ -1,9 +1,33 @@
 ---
 permalink: /
-title: "Under construction"
+title: "Dong-Hyun Hwang (황동현)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Ph.D. Candidate in Computer Science, Tokyo Institute of Technology
+
+JSPS DC2 Young Research Fellow
+
+JST Crest Team Koike Research Assistant
+
+My research interests are following:
+- Computer Vision and Machine Learning
+  - Human Pose Estimation
+  - Machine Learning for Mobile Device
+  - Applications using Deep Neural Network and Machine Learning
+- Human-Computer Interaction
+  - Interactive System using Computer Vision
+
+![]("http://academicpages.github.io/images/logos/tokyotechlogo.png" | width=100)
+![]("http://academicpages.github.io/images/logos/jspslogo.png" | width=100)
+![]("http://academicpages.github.io/images/logos/cmurilogo.png" | width=100)
+![]("http://academicpages.github.io/images/logos/kakenhilogo.jpeg" | width=100)
+![]("http://academicpages.github.io/images/logos/aiplogo.png" | width=100)
+
+
+
+

@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. of Computer Engineering, Korea University of Technology and Education, Korea, 2017
-* M.S. of Computer Science, Tokyo Institute of Technology, Japan, 2019
+* B.S. in Computer Engineering, Korea University of Technology and Education, Korea, 2017
+* M.S. in Computer Science, Tokyo Institute of Technology, Japan, 2019
 * Ph.D. Candidate, Tokyo Institute of Technology, Japan, 2019~
 
 Professional experiences
@@ -66,13 +66,13 @@ Invited Talks
 Patents
 ======
 [1] HUMAN POSE ESTIMATION SYSTEM
-    Hideki Koike, Dong-Hyun Hwang
     
+Hideki Koike, **Dong-Hyun Hwang**
 Publication number: 20210035326 (Japan and United States patents)
 
 [2] METHOD AND APPARATUS FOR GENERATING DATA FOR ESTIMATING THREE-DIMENSIONAL 
      (3D) POSE OF OBJECT INCLUDED IN INPUT IMAGE, AND PREDICTION MODEL FOR 
      ESTIMATING 3D POSE OF OBJECT (Internship at CLOVA AI Video [Current: Avatar]) 
 
-Suntae Kim, Dong-Hyun Hwang, Nicolas Monet, Soonmin Bae     
+Suntae Kim, **Dong-Hyun Hwang**, Nicolas Monet, Soonmin Bae     
 Publication number: 20210209788 (Korea, Japan, and United States patents)
