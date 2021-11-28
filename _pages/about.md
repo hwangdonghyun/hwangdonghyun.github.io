@@ -24,20 +24,5 @@ My research interests are following:
 
 ![](http://hwangdonghyun.github.io/images/logos/tokyotechlogo.png){: height="100"}
 ![](http://hwangdonghyun.github.io/images/logos/jspslogo.png){: height="100"}
-![](http://hwangdonghyun.github.io/images/logos/cmurilogo.png){: height="100"}
-![](http://hwangdonghyun.github.io/images/logos/kakenlogo.jpeg){: height="100"}
-![](http://hwangdonghyun.github.io/images/logos/aiplogo.png){: height="100"}
-
-
-<img src=http://hwangdonghyun.github.io/images/logos/tokyotechlogo.png height="100px">
-
-<img src=http://hwangdonghyun.github.io/images/logos/jspslogo.png height="100px">
-
-<img src=http://hwangdonghyun.github.io/images/logos/cmurilogo.png height="100px">
-
-<img src=http://hwangdonghyun.github.io/images/logos/kakenlogo.jpeg height="100px">
-
-<img src=http://hwangdonghyun.github.io/images/logos/aiplogo.png height="100px">
-
 
 
