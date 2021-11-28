@@ -33,6 +33,6 @@ My research interests are following:
 
 
 ![](http://hwangdonghyun.github.io/images/logos/tokyotechlogo.jpg){: height="100"}
-![](http://hwangdonghyun.github.io/images/logos/jspslogo.png){: height="120"}
+![](http://hwangdonghyun.github.io/images/logos/jspslogo.png){: height="100"}
 
 
