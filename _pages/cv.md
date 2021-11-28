@@ -13,38 +13,43 @@ Education
 ======
 * B.S. of Computer Engineering, Korea University of Technology and Education, Korea, 2017
 * M.S. of Computer Science, Tokyo Institute of Technology, Japan, 2019
-* Ph.D. Student, Tokyo Institute of Technology, Japan, 2019~
+* Ph.D. Candidate, Tokyo Institute of Technology, Japan, 2019~
 
-Work experience
+Professional experiences
 ======
-* From Winter 2020 ~ : Research Assistant
+* April 2020 ~ : Research Fellow
+  * The Japan Society for the Promotion of Science (JSPS), DC2
+
+* December. 2018 ~ March. 2020, November 2020 ~ : Research Assistant
   * Team Koike, Tokyo Institute of Technology, JST Crest.
 
-* From Spring 2020 ~ : Research Fellow
-  * The Japan Society for the Promotion of Science (JSPS), DC2
- 
-* Summer 2020: Research Internship
+* April 2021
+  * Program Chair, ACM CHI2021 Workshop: Human Augmentation for Skill Acquisition and Skill Transfer (HAA2021)
+
+* June ~ September. 2020: Part-time Researcher
   * Clova AI Avatar, NAVER Corp.
 
-* Winter 2019: Visiting Scholar
+* October. 2019 ~ January. 2020: Visiting Scholar
   * Robotics Institute, Carnegie Mellon University
 
-* Summer 2019: Research Internship
-  * Clova AI Video, NAVER Corp.
+* June ~ October. 2019: Research Internship
+  * Clova AI Video (Current Avatar), NAVER Corp.
 
+* ACM / IEEE conference and journal reviewer 
   
 Skills
 ======
 * Python 
-  *Numpy
-  *Pandas
-  *Matplotlib
+  * Numpy
+  * Pandas
+  * Matplotlib
 * Machine Learning
   * PyTorch
-  * TensorFlow 2
+  * TensorFlow2
   * Scikit-learn
 * Image Processing: OpenCV
 * Computer Graphics: Unity
+* Motion Capture System: Optitrack, Perception Neuron
 
 Publications
 ======
@@ -52,9 +57,22 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Invited Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
+Patents
+======
+[1] HUMAN POSE ESTIMATION SYSTEM
+    Hideki Koike, Dong-Hyun Hwang
+    
+Publication number: 20210035326 (Japan and United States patents)
+
+[2] METHOD AND APPARATUS FOR GENERATING DATA FOR ESTIMATING THREE-DIMENSIONAL 
+     (3D) POSE OF OBJECT INCLUDED IN INPUT IMAGE, AND PREDICTION MODEL FOR 
+     ESTIMATING 3D POSE OF OBJECT (Internship at CLOVA AI Video [Current: Avatar]) 
+
+Suntae Kim, Dong-Hyun Hwang, Nicolas Monet, Soonmin Bae     
+Publication number: 20210209788 (Korea, Japan, and United States patents)
