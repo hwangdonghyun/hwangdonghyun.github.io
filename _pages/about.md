@@ -16,13 +16,14 @@ JST Crest Team Koike Research Assistant
 
 My research interests are following:
 - Computer Vision and Machine Learning
-  - Human Pose Estimation
-  - Machine Learning for Mobile Device
-  - Applications using Deep Neural Network and Machine Learning
+  - Mobile Human Pose Estimation
+
+  ![](http://hwangdonghyun.github.io/images/logos/movnect.png){: height="180"}
+  ![](http://hwangdonghyun.github.io/images/logos/monoeye.gif){: height="180"}
 - Human-Computer Interaction
   - Interactive System using Computer Vision
 
 ![](http://hwangdonghyun.github.io/images/logos/tokyotechlogo.png){: height="100"}
-![](http://hwangdonghyun.github.io/images/logos/jspslogo.png){: height="100"}
+![](http://hwangdonghyun.github.io/images/logos/jspslogo.png){: height="120"}
 
 
