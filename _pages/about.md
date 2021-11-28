@@ -18,8 +18,8 @@ My research interests are following:
 - Computer Vision and Machine Learning
   - Mobile Human Pose Estimation
 
-  ![](http://hwangdonghyun.github.io/images/logos/movnect.png){: height="180"}
-  ![](http://hwangdonghyun.github.io/images/logos/monoeye.gif){: height="180"}
+  ![](http://hwangdonghyun.github.io/images/gifs/movnect.png){: height="180"}
+  ![](http://hwangdonghyun.github.io/images/gifs/monoeye.gif){: height="180"}
 - Human-Computer Interaction
   - Interactive System using Computer Vision
 
