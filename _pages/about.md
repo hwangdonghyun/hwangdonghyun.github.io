@@ -32,7 +32,7 @@ My research interests are following:
   [![MLIOLIGHTGIF](http://hwangdonghyun.github.io/images/gifs/mlio.gif){: height="180"}](https://hwangdonghyun.github.io/publication/2018_iss_mliolight)
 
 
-[![TOKYOTECHLOGO](http://hwangdonghyun.github.io/images/logos/tokyotechlogo.jpg){: height="100"}]()
-[![JSPSLOGO](http://hwangdonghyun.github.io/images/logos/jspslogo.png){: height="100"}]()
+[![TOKYOTECHLOGO](http://hwangdonghyun.github.io/images/logos/tokyotechlogo.jpg){: height="100"}](https://www.titech.ac.jp)
+[![JSPSLOGO](http://hwangdonghyun.github.io/images/logos/jspslogo.png){: height="100"}](https://www.jsps.go.jp/)
 
 
