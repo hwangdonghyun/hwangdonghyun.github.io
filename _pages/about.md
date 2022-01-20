@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+**I will join NAVER CLOVA this February.**
+
 Ph.D. Candidate in Computer Science, Tokyo Institute of Technology
 
 JSPS DC2 Young Research Fellow
