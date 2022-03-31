@@ -17,8 +17,10 @@ Education
 
 Professional experiences
 ======
+
 * March 2022 ~ : Researcher
   * CLOVA, NAVER Corp.
+
 * April 2020 ~ March 2022: Research Fellow
   * The Japan Society for the Promotion of Science (JSPS), DC2
 
