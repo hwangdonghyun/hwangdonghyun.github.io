@@ -13,27 +13,29 @@ Education
 ======
 * B.S. in Computer Engineering, Korea University of Technology and Education, Korea, 2017
 * M.S. in Computer Science, Tokyo Institute of Technology, Japan, 2019
-* Ph.D. Candidate, Tokyo Institute of Technology, Japan, 2019~
+* Ph.D. in Computer Science, Tokyo Institute of Technology, Japan, 2022
 
 Professional experiences
 ======
-* April 2020 ~ : Research Fellow
+* March 2022 ~ : Researcher
+  * CLOVA, NAVER Corp.
+* April 2020 ~ March 2022: Research Fellow
   * The Japan Society for the Promotion of Science (JSPS), DC2
 
-* December. 2018 ~ March. 2020, November 2020 ~ : Research Assistant
+* December. 2018 ~ Feb 2022: Research Assistant
   * Team Koike, Tokyo Institute of Technology, JST Crest.
 
 * April 2021
   * Program Chair, ACM CHI2021 Workshop: Human Augmentation for Skill Acquisition and Skill Transfer (HAA2021)
 
 * June ~ September. 2020: Part-time Researcher
-  * Clova AI Avatar, NAVER Corp.
+  * CLOVA AI Avatar, NAVER Corp.
 
 * October. 2019 ~ January. 2020: Visiting Scholar
   * Robotics Institute, Carnegie Mellon University
 
 * June ~ October. 2019: Research Internship
-  * Clova AI Video (Current Avatar), NAVER Corp.
+  * CLOVA AI Video (Current Avatar), NAVER Corp.
 
 * ACM / IEEE conference and journal reviewer 
   

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dong-Hyun Hwang (황동현)"
+title: "Dong-Hyun Hwang (Ph.D.)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-**I will join NAVER CLOVA this February.**
 
-Ph.D. Candidate in Computer Science, Tokyo Institute of Technology
+Researcher in Voice & Avatar, CLOVA, NAVER Corp.
 
-JSPS DC2 Young Research Fellow
 
-JST Crest Team Koike Research Assistant
+JSPS DC2 Young Research Fellow (Previously)
+
+JST Crest Team Koike Research Assistant (Previously)
 
 My research interests are following:
 - Computer Vision and Machine Learning
