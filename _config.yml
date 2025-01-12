@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Dong-Hyun Hwang"
   avatar           : "profile.png"
-  bio              : "Researcher at CLOVA, NAVER Corp."
+  bio              : "Research Engineer at NAVER Cloud Corp."
   location         : "South Korea"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=0t5tW88AAAAJ"
-  email            : "hwang.d.ab@m.titech.ac.jp"
+  email            : "dh.hwang@navercorp.com"
   researchgate     : "https://www.researchgate.net/profile/Dong-Hyun-Hwang" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
