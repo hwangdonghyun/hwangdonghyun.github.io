@@ -8,9 +8,7 @@ date: 2024-11-11
 location: "Seoul, South Korea"
 ---
 ## DAN 24 Technical Talk: AI Eraser - Detailed Development Process of an Image Editing Service
-
 This session will cover the detailed development process of **AI Eraser**, an image editing service based on image generation models in **HyperCLOVA X**.
-
 We will share various challenges encountered during the development of this service model, along with their solutions, efforts to enhance performance, and other key insights.
 
 ## Session Overview
