@@ -7,8 +7,7 @@ venue: "DAN 24, Team NAVER Conference"
 date: 2024-11-11
 location: "Seoul, South Korea"
 ---
-## DAN 24 Technical Talk
-## AI Eraser: Detailed Development Process of an Image Editing Service
+## DAN 24 Technical Talk: AI Eraser - Detailed Development Process of an Image Editing Service
 
 This session will cover the detailed development process of **AI Eraser**, an image editing service based on image generation models in **HyperCLOVA X**.
 
