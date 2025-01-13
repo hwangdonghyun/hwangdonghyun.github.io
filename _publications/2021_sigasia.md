@@ -6,7 +6,7 @@ excerpt: ''
 date: 2021-12-14
 venue: 'ACM SIGGRAPH Asia 2021, Tokyo, Japan (Poster)'
 paperurl: 'https://arxiv.org/abs/2105.10153'
-citation: ''
+citation: 'Liao et al. "How can i swing like pro?: Golf swing analysis tool for self training." SIGGRAPH Asia 2021 Posters. 2021.'
 ---
 ## Authors
 Chen-Chieh Liao, **Dong-Hyun Hwang**, and Hideki Koike

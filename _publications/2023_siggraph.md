@@ -6,7 +6,7 @@ excerpt: ''
 date: 2023-07-23
 venue: 'ACM SIGGRAPH 2023 Posters'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3588028.3603679'
-citation: ''
+citation: 'Liao et al. "Content-Preserving Motion Stylization using Variational Autoencoder." ACM SIGGRAPH 2023 Posters.'
 ---
 ## Authors
 Chen-Chieh Liao, Jong-Hwan Kim, Hideki Koike, and **Dong-Hyun Hwang**

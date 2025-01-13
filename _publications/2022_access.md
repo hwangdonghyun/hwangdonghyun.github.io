@@ -6,7 +6,7 @@ excerpt: ''
 date: 2022-10-06
 venue: 'IEEE Access'
 paperurl: 'https://ieeexplore.ieee.org/document/9913343/'
-citation: ''
+citation: 'Liao et al. "Ai golf: Golf swing analysis tool for self-training." IEEE Access 10 (2022): 106286-106295.'
 ---
 ## Authors
 Chen-Chieh Liao, **Dong-Hyun Hwang**, and Hideki Koike
