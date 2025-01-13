@@ -8,21 +8,25 @@ redirect_from:
   - /about.html
 ---
 
+**Research Engineer in Hyperscale AI Model**  
+**NAVER Cloud Corp.**
 
-Research Engineer in Hyperscale AI Model, NAVER Cloud Corp.
+**Former:**  
+- **JSPS DC2 Young Research Fellow**  
+- **JST CREST Team Koike Research Assistant**  
 
 
-JSPS DC2 Young Research Fellow (Previously)
+## Research Interests  
+- **Computer Vision and Machine Learning**  
+  - Large-scale Model Training and Engineering  
+  - Diffusion-based Generative Multimodal Models (e.g., Text-to-Image, Video, and Motion)  
+  - Human Pose Estimation  
 
-JST Crest Team Koike Research Assistant (Previously)
+- **Human-Computer Interaction**  
+  - Virtual Human Agents for Interactive Computing  
+  - Computer Vision-driven Interactive Systems  
 
-My research interests are following:
-- Computer Vision and Machine Learning
-  - Diffusion-based Generative Multimodal Model
-  - Mobile Human Pose Estimation
-- Human-Computer Interaction
-  - Virtual Human Agent for Interactive Computing
-  - Interactive System using Computer Vision
+
   
   
   
