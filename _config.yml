@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dong-Hyun Hwang"
 title_separator          : "-"
 name                     : &name "Dong-Hyun Hwang"
-description              : &description "personal description"
+description              : &description "Computer vision, generative AI, and human-computer interaction research by Dong-Hyun Hwang."
 url                      : https://hwangdonghyun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hwangdonghyun/hwangdonghyun.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Dong-Hyun Hwang"
   avatar           : "profile.png"
-  bio              : "Research Engineer at NAVER Cloud Corp."
-  location         : "South Korea"
+  bio              : "Manager at Noetra; Computer Vision Lead Research Engineer at SB Intuitions"
+  location         : "Tokyo, Japan"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=0t5tW88AAAAJ"
-  email            : "dh.hwang@navercorp.com"
+  email            : # Contact via LinkedIn
   researchgate     : "https://www.researchgate.net/profile/Dong-Hyun-Hwang" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "hwangdonghyun"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "dhhwang0209"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-5588-4366"
   pinterest        :
   soundcloud       :
@@ -309,3 +309,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
