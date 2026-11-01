@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="dark">
+<title>{{ page.title | escape }} · {{ site.title | escape }}</title>
+<meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | escape }}">
+<link rel="canonical" href="{{ page.url | absolute_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/portfolio.css' | relative_url }}">
+</head>
+<body>
+<a class="skip-link" href="#content">Skip to content</a>
+<div class="site-shell">
+<header class="identity">
+  <a class="wordmark" href="{{ '/' | relative_url }}" aria-label="Dong-Hyun Hwang home">DH<span>.</span></a>
+  <div class="identity-main">
+    <p class="eyebrow">COMPUTER VISION · GENERATIVE AI</p>
+    <a class="name" href="{{ '/' | relative_url }}">Dong-Hyun <br>Hwang<span class="name-dot">.</span></a>
+    <p class="degree">Ph.D. · Tokyo, Japan</p>
+    <div class="current-roles">
+      <p>Manager <span>@ Noetra株式会社</span></p>
+      <p>Computer Vision<br>Lead Research Engineer <span>@ SB Intuitions</span></p>
+    </div>
+    <p class="identity-note">From understanding human motion<br>to building generative models.</p>
+  </div>
+  <nav class="section-nav" aria-label="Main navigation">
+    <a href="{{ '/#about' | relative_url }}">About</a>
+    <a href="{{ '/#research' | relative_url }}">Selected work</a>
+    <a href="{{ '/#experience' | relative_url }}">Experience</a>
+    <a href="{{ '/publications/' | relative_url }}"{% if page.url == '/publications/' %} aria-current="page"{% endif %}>Publications</a>
+    <a href="{{ '/cv/' | relative_url }}"{% if page.url == '/cv/' %} aria-current="page"{% endif %}>CV</a>
+    <a href="{{ '/talks/' | relative_url }}">Talks</a>
+  </nav>
+  <div class="social-links">
+    <a href="https://www.linkedin.com/in/dhhwang0209/">LinkedIn <span aria-hidden="true">↗</span></a>
+    <a href="https://github.com/hwangdonghyun">GitHub <span aria-hidden="true">↗</span></a>
+    <a href="https://scholar.google.com/citations?user=0t5tW88AAAAJ">Scholar <span aria-hidden="true">↗</span></a>
+  </div>
+</header>
+<main id="content" class="main-content">
+{% unless page.home %}<div class="page-heading"><a class="back-link" href="{{ '/' | relative_url }}">← Home</a><p class="eyebrow">DONG-HYUN HWANG</p><h1>{{ page.title }}</h1></div>{% endunless %}
+{{ content }}
+<footer class="site-footer"><span>© {{ site.time | date: '%Y' }} Dong-Hyun Hwang</span><span>Built with Jekyll · <a href="https://github.com/hwangdonghyun/hwangdonghyun.github.io">Source ↗</a></span></footer>
+</main>
+</div>
+</body>
+</html>
+

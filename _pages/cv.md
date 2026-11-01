@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: portfolio
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -24,9 +24,16 @@ redirect_from:
 
 ## **Professional Experience**
 
+### **Manager, Noetra株式会社**
+*07/2026 - Present*
+
+### **Computer Vision Lead Research Engineer, SB Intuitions**
+*08/2025 - Present*
+- Research and development of image-generation models.
+
 ### **Research Engineer, NAVER Cloud**  
-*01/2023 - Present*  
-- **Team Lead of Hyperscale AI Model101 (2024 - Present)**  
+*01/2023 - 06/2025*  
+- **Team Lead of Hyperscale AI Model101 (2024 - 2025)**  
   - Led a team of 4 to develop an AI Eraser Agent in CLOVA X, successfully launching the service.  
   - Contributed to a large-scale diffusion-based text-to-image training framework.  
 
@@ -72,10 +79,11 @@ redirect_from:
 ---
 
 ## **Publications**
+- *ZIM: Zero-Shot Image Matting for Anything* (ICCV 2025, Highlight) — [Paper](https://arxiv.org/abs/2411.00626)  
 - [1] *Diffusion-based Synthetic Dataset Generation for Egocentric 3D Human Pose Estimation* (ECCV 2024 Workshop)  
 - [3] *MonoEye: Multimodal Human Motion Capture System Using A Single Ultra-Wide Fisheye Camera* (UIST 2020)  
 - [4] *Lightweight 3D Human Pose Estimation Network Training Using Teacher-Student Learning* (IEEE/CVF WACV 2020)  
-*(Full list available upon request)*  
+[View all publications](/publications/)  
 
 ---
 
